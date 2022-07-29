@@ -1,0 +1,187 @@
+@media only screen and (max-width:576px){
+
+
+    #banner_part{
+        width: auto;
+        margin-top: 50px;
+    }
+    .container{
+        width: auto;
+    }
+    #discover_part{
+        width: auto;
+        margin-top: 50px;
+    }
+    .title h1{
+        padding: 0;
+        width: auto;
+        font-size: 30px;
+    }
+    .title p{
+        padding: 0;
+        width: auto;
+        font-size: 14px;
+    }
+    #discover_part .item{
+        display: block;
+    }
+    #discover_part .item .img{
+        width: auto;
+    }
+    #discover_part .item .img img{
+        height: 200px;
+    }
+    #discover_part button{
+        offset: 0;
+    }
+    /* explore_part */
+    #explore_part{
+        margin-top: 50px;
+    }
+    #explore_part .text h3{
+        margin-left: 0;
+        
+    }
+    #explore_part .text p{
+        margin-left: 0;
+        width: auto;
+    }
+    #explore_part .text ul{
+        text-align: center;
+    }
+
+    /* ready_part */
+    #ready_part{
+        width: auto;
+    }
+    #ready_part .item h2{
+        padding-left: 10px;
+    }
+    #ready_part .item p{
+        padding-left: 10px;
+        width: auto;
+    }
+    #ready_part .item{
+        padding: 20px 0;
+    }
+    /* meet_part */
+    #meet_part .title h1{
+        width: auto;
+    }
+    #meet_part .title p{
+        width: auto;
+    }
+    #meet_part .items{
+        margin-bottom: 10px;
+    }
+    /* frequently_part */
+    #frequently_part{
+        width: auto;
+        
+    }
+    #frequently_part .offset-2{
+        margin-left: 0;
+    }
+    /* company_part */
+    #company_part{
+        overflow: ;
+    }
+}
+
+@media only screen and (max-width:768px){
+
+
+    #banner_part{
+        width: auto;
+        margin-top: 50px;
+    }
+    .container{
+        width: auto;
+    }
+    #discover_part{
+        width: auto;
+        margin-top: 50px;
+    }
+    .title h1{
+        padding: 0;
+        width: auto;
+        font-size: 30px;
+    }
+    .title p{
+        padding: 0;
+        width: auto;
+        font-size: 14px;
+    }
+    #discover_part .offset-5{
+        margin: auto;
+    }
+    #discover_part .item .img{
+        width: auto;
+    }
+    #discover_part .item .img img{
+        height: 200px;
+    }
+    #discover_part .text button{
+        margin-left: 1px;
+    }
+    /* explore_part */
+    #explore_part{
+        margin-top: 50px;
+    }
+    #explore_part .text h3{
+        margin-left: 0;
+        
+    }
+    #explore_part .text p{
+        margin-left: 0;
+        width: auto;
+    }
+    #explore_part .text ul{
+        text-align: center;
+    }
+    #explore_part .text ul li{
+        margin-right: 40px;
+    }
+    #explore_part .text button{
+        margin-left: 0;
+    }
+
+    /* ready_part */
+    #ready_part{
+        width: auto;
+        
+    }
+    #ready_part .item h2{
+        padding-left: 10px;
+        text-align: center;
+    }
+    #ready_part .item p{
+        padding-left: 10px;
+        width: auto;
+        text-align: center;
+    }
+    #ready_part .item{
+        padding: 20px 0;
+    }
+    #ready_part .item button{
+        margin-left: 30%;
+    }
+  
+   
+    /* frequently_part */
+    #frequently_part{
+        width: auto;
+        
+    }
+    #frequently_part .offset-2{
+        margin-left: 0;
+    }
+    /* company_part */
+    #company_part{
+        overflow: ;
+    }
+    /* footer_part */
+    #footer_part{
+        margin-top: 50px;
+    }
+}
